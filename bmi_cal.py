@@ -10,4 +10,4 @@ BMI= w/(h**2)
 res = float(BMI)
 int_BMI = int(res)
 #print(weight + " ÷" +"("+ height + "x"+ height +")"+"= "+ str(res))
-print (int_BMI)ā
+print (int_BMI)
